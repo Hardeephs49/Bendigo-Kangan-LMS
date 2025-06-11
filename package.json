@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "mapbox-gl": "^2.13.0",
+    "marked": "^15.0.12",
+    "mongoose": "^8.13.2",
+    "react-map-gl": "^6.1.21",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/react-map-gl": "^6.1.7",
+    "@types/stripe": "^8.0.416"
+  }
+}
